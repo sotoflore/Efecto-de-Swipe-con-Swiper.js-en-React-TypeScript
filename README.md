@@ -25,7 +25,7 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local:
 
 1. Clona el repositorio:
     ```bash
-    https://github.com/sotoflore/Administrador-Pacientes-Con-Zustand-y-React-Hook-Form.git
+    https://github.com/sotoflore/Efecto-de-Swipe-con-Swiper.js-en-React-TypeScript.git
     ```
 2. Entra en el directorio del proyecto:
     ```bash
@@ -36,10 +36,10 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local:
     npm install
     ```
 4. Configura tu clave de API de TMDB:
-Crea un archivo .env en la raíz del proyecto con el siguiente contenido:
-```
-VITE_API_KEY=tu_clave_de_api_tmdb
-```
+    Crea un archivo .env en la raíz del proyecto con el siguiente contenido:
+    ```
+    VITE_API_KEY=tu_clave_de_api_tmdb
+    ```
 
 5. Ejecuta el servidor de desarrollo:
     ```bash
