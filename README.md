@@ -2,6 +2,8 @@
 
 Este proyecto es una aplicación sencilla en **React** con **TypeScript** que implementa un efecto de swipe utilizando la librería **Swiper.js**. Las películas se obtienen de la **API** de **The Movie Database (TMDB)** y se muestran en forma de tarjetas con un fondo dinámico que cambia según la película seleccionada.
 
+![web-app](https://github.com/sotoflore/Efecto-de-Swipe-con-Swiper.js-en-React-TypeScript/blob/main/public/web-app.png)
+
 ## Características
 - **Swiper.js**: Utiliza el **efecto "cards"** de Swiper.js para deslizar tarjetas de películas.
 - **Axios**: Hace peticiones HTTP a la API de TMDB para obtener las películas populares.
