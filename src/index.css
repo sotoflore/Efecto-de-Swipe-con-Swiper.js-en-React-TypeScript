@@ -1,0 +1,30 @@
+html,
+body {
+    position: relative;
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.app-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.swiper {
+    width: 100%;
+    max-width: 370px;
+}
+.swiper-slide {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 13px;
+}
+
+.poster-movie{
+    width: 100%;
+}
