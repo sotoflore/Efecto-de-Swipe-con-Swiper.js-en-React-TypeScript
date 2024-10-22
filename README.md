@@ -25,7 +25,7 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local:
 
 1. Clona el repositorio:
     ```bash
-    https://github.com/sotoflore/Efecto-de-Swipe-con-Swiper.js-en-React-TypeScript.git
+    git clone https://github.com/sotoflore/Efecto-de-Swipe-con-Swiper.js-en-React-TypeScript.git
     ```
 2. Entra en el directorio del proyecto:
     ```bash
